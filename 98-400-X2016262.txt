@@ -1,0 +1,16 @@
+"Highest certificate, diploma or degree (15)"	Total - Aboriginal identity [5]	  Aboriginal identity [6]	    Single Aboriginal responses [7]	      First Nations (North American Indian) [8]	      Métis	      Inuk (Inuit)	    Multiple Aboriginal responses [9]	    Aboriginal responses not included elsewhere  [10]	  Non-Aboriginal identity	 
+"Total - Highest certificate, diploma or degree [11]"	2532975	134735	131380	84670	45945	770	1905	1455	2398245	
+"  No certificate, diploma or degree"	244005	31355	30720	23090	7445	190	330	305	212650	
+  Secondary (high) school diploma or equivalency certificate [12]	671010	38420	37520	23930	13385	200	510	395	632590	
+"  Postsecondary certificate, diploma or degree"	1617960	64960	63140	37650	25110	380	1060	755	1553005	
+    Apprenticeship or trades certificate or diploma	231445	16975	16515	10315	6095	115	270	185	214470	
+      Trades certificate or diploma other than Certificate of Apprenticeship or Certificate of Qualification [13]	97350	8925	8685	5915	2700	70	150	85	88425	
+      Certificate of Apprenticeship or Certificate of Qualification [14]	134095	8050	7830	4400	3390	40	120	100	126045	
+"    College, CEGEP or other non-university certificate or diploma"	528810	29190	28515	16850	11505	160	390	285	499615	
+    University certificate or diploma below bachelor level	99700	5035	4890	3170	1695	30	95	55	94660	
+"    University certificate, diploma or degree at bachelor level or above"	758015	13755	13215	7315	5825	80	305	235	744255	
+      Bachelor's degree	497845	9335	8985	4945	3985	55	190	160	488510	
+      University certificate or diploma above bachelor level	52960	1195	1155	670	485	0	25	10	51765	
+"      Degree in medicine, dentistry, veterinary medicine or optometry"	22440	180	165	65	100	0	15	0	22260	
+      Master's degree	159740	2710	2590	1465	1115	10	55	60	157025	
+      Earned doctorate [15]	25030	340	320	175	145	0	15	10	24695	
