@@ -1,0 +1,42 @@
+"Aboriginal Identity (9), Major Field of Study - Classification of Instructional Programs (CIP) 2016 (43), Highest Certificate, Diploma or Degree (15), Registered or Treaty Indian Status (3), Residence by Aboriginal Geography (10), Age (9) and Sex (3) for the Population Aged 15 Years and Over in Private Households of Canada, Provinces and Territories, 2016 Census - 25% Sample Data"
+"Geography = British Columbia / Colombie-Britannique [1]"
+"Global non-response rate (GNR) =   6.1 %"
+"Major field of study - Classification of Instructional Programs (CIP) 2016 (43) = Total - Major field of study - Classification of Instructional Programs (CIP) 2016 [2]"
+"Registered or Treaty Indian status (3) = Total - Population by Registered or Treaty Indian status [3]"
+"Residence by Aboriginal geography (10) = Total - Residence on or off reserve [4]"
+"Age (9) = Total - Age"
+"Sex (3) = Total - Sex"
+"Highest certificate, diploma or degree (15)","Total - Aboriginal identity [5]","  Aboriginal identity [6]","    Single Aboriginal responses [7]","      First Nations (North American Indian) [8]","      Métis","      Inuk (Inuit)","    Multiple Aboriginal responses [9]","    Aboriginal responses not included elsewhere  [10]","  Non-Aboriginal identity", 
+"Total - Highest certificate, diploma or degree [11]",3870375,200655,195430,125550,68800,1075,2975,2245,3669725 
+"  No certificate, diploma or degree",601635,59960,58660,42320,16030,315,735,565,541680 
+"  Secondary (high) school diploma or equivalency certificate [12]",1138565,60860,59245,37280,21630,340,950,665,1077705 
+"  Postsecondary certificate, diploma or degree",2130175,79835,77515,45955,31145,420,1295,1020,2050340 
+"    Apprenticeship or trades certificate or diploma",338985,21940,21360,13135,8080,140,355,230,317040 
+"      Trades certificate or diploma other than Certificate of Apprenticeship or Certificate of Qualification [13]",142935,11715,11415,7655,3675,85,195,100,131225 
+"      Certificate of Apprenticeship or Certificate of Qualification [14]",196050,10235,9940,5480,4400,55,160,130,185815 
+"    College, CEGEP or other non-university certificate or diploma",700940,35335,34470,20435,13870,170,475,390,665610 
+"    University certificate or diploma below bachelor level",138010,6295,6105,3885,2190,30,125,70,131710 
+"    University certificate, diploma or degree at bachelor level or above",952240,16260,15585,8490,7010,80,345,335,935975 
+"      Bachelor's degree",622675,11105,10670,5745,4865,60,220,215,611565 
+"      University certificate or diploma above bachelor level",69005,1375,1310,765,540,10,35,25,67630 
+"      Degree in medicine, dentistry, veterinary medicine or optometry",29110,220,205,85,110,0,10,10,28895 
+"      Master's degree",195825,3145,3005,1670,1320,15,65,75,192685 
+"      Earned doctorate [15]",35625,415,395,220,170,0,10,10,35205 
+"Note"
+"[1] Excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"[1] Data quality index showing a long-form income non-response rate higher than or equal to 10%, but lower than 20%."
+"[2] This variable shows the two-digit series of CIP. For more information on the CIP classification, see the Classification of Instructional Programs, Canada 2016: http://www.statcan.gc.ca/eng/concepts/classification.   For information on collection, classification and data quality for this variable, refer to the Education Reference Guide, Census of Population, 2016, Catalogue no. 98-500-X2016013. "
+"[2] Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements in the Census of Population.    For more information on Aboriginal variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Aboriginal Peoples Reference Guide, Census of Population, 2016 and the Aboriginal Peoples Technical Report, Census of Population, 2016. "
+"[2] Residence on or off reserve refers to whether the person's usual place of residence is in a census subdivision (CSD) that is defined as 'on reserve' or 'off reserve.'    Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements in the Census of Population.    For more information on Aboriginal variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, refer to the Aboriginal Peoples Reference Guide, Census of Population, 2016 and the Aboriginal Peoples Technical Report, Census of Population, 2016."
+"[3] Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements in the 2016 Census of Population. For more information on Aboriginal variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, refer to the Aboriginal Peoples Reference Guide, Census of Population, 2016 and the Aboriginal Peoples Technical Report, Census of Population, 2016."
+"[4] 'Aboriginal identity' includes persons who are First Nations (North American Indian), Métis or Inuk (Inuit) and/or those who are Registered or Treaty Indians (that is, registered under the Indian Act of Canada) and/or those who have membership in a First Nation or Indian band. Aboriginal peoples of Canada are defined in the Constitution Act, 1982, section 35 (2) as including the Indian, Inuit and Métis peoples of Canada."
+"[5] 'Single Aboriginal responses' includes persons who are in only one Aboriginal group, that is First Nations (North American Indian), Métis or Inuk (Inuit)."
+"[6] Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements in the 2016 Census of Population. For additional information, refer to the Aboriginal Peoples Reference Guide, Census of Population, 2016."
+"[7] 'Multiple Aboriginal responses' includes persons who are any two or all three of the following: First Nations (North American Indian), Métis or Inuk (Inuit)."
+"[8] 'Aboriginal responses not included elsewhere' includes persons who are not First Nations (North American Indian), Métis or Inuk (Inuit), but who have Registered or Treaty Indian status and/or Membership in a First Nation or Indian band."
+"[9] Users are advised to consult data quality comments for 'Highest certificate, diploma or degree,' available in the Education Reference Guide, Census of Population, 2016, Catalogue no. 98-500-X2016013."
+"[10] 'Secondary (high) school diploma or equivalency certificate' includes only people who have this as their highest educational qualification. It excludes persons with a postsecondary certificate, diploma or degree."
+"[11] 'Trades certificate or diploma other than Certificate of Apprenticeship or Certificate of Qualification' includes trades certificates or diplomas such as pre-employment or vocational certificates and diplomas from brief trade programs completed at community colleges, institutes of technology, vocational centres and similar institutions."
+"[12] 'Certificate of Apprenticeship or Certificate of Qualification' also includes Journeyperson's designations."
+"[13] 'Earned doctorate' refers to persons who have completed a doctorate degree awarded by a university. This includes, for example, Doctor of Philosophy (Ph.D.) and Doctor of Juridical Science (S.J.D.). It does not include honorary doctorates."
+"Source: Statistics Canada - 2016 Census. Catalogue Number 98-400-X2016262."
